@@ -1,12 +1,8 @@
 # GATE - Computer Science Engineering
-
-## Table of contents
-- [Section 0: GATE - Computer Science and Information Technology Syllabus](#section-1-GATE - Computer Science and Information Technology Syllabus)
-
-  
+ 
 ## GATE - Computer Science and Information Technology Syllabus
-
-- [Section 1: Engineering Mathematics](#subsection-1-engineering-mathematics)
+## Table of contents
+- [Section 1: Engineering Mathematics](#section-1-engineering-mathematics)
 - [Section 2: Digital Logic](#section-2-digital-logic)
 - [Section 3: Computer Organization and Architecture](#section-3-computer-organization-and-architecture)
 - [Section 4: Programming and Data Structures](#section-4-programming-and-data-structures)
