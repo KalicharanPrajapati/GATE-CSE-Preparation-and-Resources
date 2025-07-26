@@ -1,4 +1,9 @@
-# GATE - Computer Science and Information Technology Syllabus
+# GATE - Computer Science Engineering
+
+## table of contents
+- [Section 1: GATE - Computer Science and Information Technology Syllabus](#section-1-GATE - Computer Science and Information Technology Syllabus)
+- 
+## GATE - Computer Science and Information Technology Syllabus
 
 ## Table of Contents
 - [Section 1: Engineering Mathematics](#section-1-engineering-mathematics)
